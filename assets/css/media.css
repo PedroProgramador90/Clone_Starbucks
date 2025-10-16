@@ -95,7 +95,7 @@
 @media screen and (max-width:430px) {
 
     .title-mobile {
-     padding-top:50px;
+     padding-top:40px;
      
    }
 
@@ -104,11 +104,11 @@
    }
 
    #carouselExample {
-    margin-top:30px;
+    margin-top:10px;
    }
 
     .carousel-item img {
-      width:180px;
+      width:100px;
    }
 }
 
@@ -154,6 +154,7 @@
 
 
 /*****/
+
 
 
 
