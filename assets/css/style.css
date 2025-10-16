@@ -138,6 +138,10 @@ nav.nav-desktop .list-navbar li:first-child a {
     color:var(--color-tree);
 }
 
+.wrapper-icons {
+    display:none;
+}
+
 .icons-mobile {
     display: flex;
     align-items: center;
@@ -285,5 +289,6 @@ main.main-mobile {
 
 
 /******/
+
 
 
