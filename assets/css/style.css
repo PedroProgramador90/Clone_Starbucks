@@ -113,9 +113,6 @@ nav.nav-desktop .list-navbar li:first-child a {
    
 }
 
-.icons-mobile{
-    display:none;
-}
 .menu-mobile .nav-mobile ul.show-menu {
   max-height:300px;
   opacity:1;
@@ -145,6 +142,7 @@ nav.nav-desktop .list-navbar li:first-child a {
     display: flex;
     align-items: center;
     gap:20px;
+    opcity:0;
 }
 
 .icons-mobile i {
@@ -287,4 +285,5 @@ main.main-mobile {
 
 
 /******/
+
 
